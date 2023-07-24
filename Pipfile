@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "==0.19.0"
+spotipy = "==2.18.0"
+beautifulsoup4 = "==4.9.3"
+youtube-dl = "==2021.6.6"
+requests = "*"
+pytube = "==15.0.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
